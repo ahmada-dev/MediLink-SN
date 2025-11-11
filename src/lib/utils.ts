@@ -37,7 +37,7 @@ export const navItems:NavItem[] = [
     },
     {
         label: "paramètres",
-        url: "settings",
+        url: "/settings",
         icon: Settings,
         
     },
